@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/pipeline-dark.svg">
-  <img src="assets/pipeline-light.svg" width="600"
+  <img src="assets/pipeline-light.svg" width="100%"
        alt="A four-stage pipeline: Concept, Prototype, Architecture, Scale. Each stage is a node ringed by
             one more concentric circle than the last, and a pulse travels the track from left to right.">
 </picture>
@@ -9,7 +9,9 @@
 
 **Software Engineer at Microsoft** &nbsp;·&nbsp; Full-stack &nbsp;·&nbsp; Distributed systems &nbsp;·&nbsp; 0→1 product engineering
 
-**Connect with me** &nbsp; <a href="https://x.com/ricardoleitejr"><img src="assets/pill/social-x.svg" alt="X — @ricardoleitejr" height="30"></a> <a href="https://www.linkedin.com/in/ricardo-leite-jr/"><img src="assets/pill/social-linkedin.svg" alt="LinkedIn — Ricardo Leite" height="30"></a> <a href="mailto:ricardo.leitejr95@gmail.com"><img src="assets/pill/social-email.svg" alt="Email — ricardo.leitejr95@gmail.com" height="30"></a>
+**Connect with me**
+
+<a href="https://x.com/ricardoleitejr"><img src="assets/pill/social-x.svg" alt="X — @ricardoleitejr" height="30"></a> <a href="https://www.linkedin.com/in/ricardo-leite-jr/"><img src="assets/pill/social-linkedin.svg" alt="LinkedIn — Ricardo Leite" height="30"></a> <a href="mailto:ricardo.leitejr95@gmail.com"><img src="assets/pill/social-email.svg" alt="Email — ricardo.leitejr95@gmail.com" height="30"></a>
 
 ---
 
